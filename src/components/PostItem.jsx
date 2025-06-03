@@ -46,7 +46,7 @@ function PostItem({ item }) {
           alt={item.name} />
       </figure>
       <div className="card-body">
-        <h2 className="card-title">Card Title</h2>
+        <h2 className="card-title">{item.name}</h2>
         <p>{item.post}</p>
         <div className="card-actions justify-around">
           {!isEdit ? (

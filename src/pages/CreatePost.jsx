@@ -52,7 +52,6 @@ function CreatePost() {
 
         <button type="submit" className="btn btn-neutral mt-4" onClick={hdlSubmit}>Post!!</button>
       </fieldset>
-      <pre>{JSON.stringify(formData, null, 2)}</pre>
     </div>
   )
 }
