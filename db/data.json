@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": "db02",
+      "name": "boss",
+      "post": "zxcvb",
+      "image": "https://picsum.photos/id/237/200/300"
+    },
+    {
+      "id": "d49f",
+      "name": "Math",
+      "post": "I'm Olympic bois",
+      "image": "https://pbs.twimg.com/profile_images/1195500091341234176/mKJRu5Dt_400x400.jpg"
+    }
+  ]
+}
